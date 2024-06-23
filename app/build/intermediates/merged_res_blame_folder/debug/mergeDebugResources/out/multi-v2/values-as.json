@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.albin.playsoundtheinonehourintervals.app-mergeDebugResources-43:/values-as/values-as.xml",
+            "outputFile": "com.albin.playsoundtheinonehourintervals.app-mergeDebugResources-48:/values-as/values-as.xml",
             "map": [
                 {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/f44e29deb524d7f5df18696b30f507fa/transformed/foundation-release/res/values-as/values-as.xml",
-                    "from": {
-                        "startLines": "2,3",
-                        "startColumns": "4,4",
-                        "startOffsets": "55,140",
-                        "endColumns": "84,87",
-                        "endOffsets": "135,223"
-                    },
-                    "to": {
-                        "startLines": "80,81",
-                        "startColumns": "4,4",
-                        "startOffsets": "8059,8144",
-                        "endColumns": "84,87",
-                        "endOffsets": "8139,8227"
-                    }
-                },
-                {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/95e8685b39a10d2f1bbfce7c1fba2095/transformed/material3-1.1.1/res/values-as/values-as.xml",
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47,48,49,50,51,52,53,54,55,56",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -38,7 +21,7 @@
                     }
                 },
                 {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/res/values-as/values-as.xml",
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9",
                         "startColumns": "4,4,4,4,4,4,4,4",
@@ -55,7 +38,24 @@
                     }
                 },
                 {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/e78471073bb731600d8cf9d7ff60f718/transformed/ui-release/res/values-as/values-as.xml",
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/res/values-as/values-as.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,140",
+                        "endColumns": "84,87",
+                        "endOffsets": "135,223"
+                    },
+                    "to": {
+                        "startLines": "80,81",
+                        "startColumns": "4,4",
+                        "startOffsets": "8059,8144",
+                        "endColumns": "84,87",
+                        "endOffsets": "8139,8227"
+                    }
+                },
+                {
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/58c2142f252e8645b900f4dbfaa68918/transformed/ui-release/res/values-as/values-as.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",

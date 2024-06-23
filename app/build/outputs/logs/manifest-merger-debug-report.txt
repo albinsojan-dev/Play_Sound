@@ -1,54 +1,59 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-44:12
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-44:12
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/95e8685b39a10d2f1bbfce7c1fba2095/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/4449ab0ec534e73ee72a7dccbe3d263b/transformed/material-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/87cdf24e008225a7f9337c8ee82dc616/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/043338d6f7ee867d71b3ec8131462065/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3a4a4d90430dbc75af90875bf77c2382/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c14f2cabfded4342a978dc75bc2b2df4/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/f44e29deb524d7f5df18696b30f507fa/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/906510ccb7c9cd64e23833dab4ed2765/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9ee7e826c46392634591f68fa25fe6e2/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/1375622b2e8b36e46ac3315e34617a5f/transformed/animation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/4a0bb57a8837c46c1ca6feddf6de7d56/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/51edb24b3e9933c88e7344feecfd4429/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d73bfb5e34fae60b2855d815bc3c72b6/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c6ac024fd84d72e65df7efc53b617c59/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/66fd427a5d711da0cb84f1c3b0db26a1/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/8fb689763f655b8effc6c3ac27e38bbf/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/cafcffaf0863406e6bb7c7cc1e7f2641/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/b74cd8e1b7ed02592ab173061f5cc852/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/9d65a755b99fc3d9cafc52e2a699cf1d/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/171803becddb607136239c851e529441/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/e6e16ce284d0680c58da119d1369229c/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/d6bfac3fa35b2d5a4f74910de3c07516/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/4e9ac084f5b368f6537d05bae2facc86/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d63c754e75c1d872066915fa31a433f9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/5568fe0563d899c1fe6d690d4af52546/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e78471073bb731600d8cf9d7ff60f718/transformed/ui-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:17:1-28:12
-MERGED from [androidx.activity:activity:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/68b4360b32e8134454857734048552db/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.activity:activity-compose:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/77d2d0264600880daa405285b99243c0/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/6b1a3a01a18b311ea8cba03560980cd7/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/e1adecb7896c5fbb5dc7b0a415a112c3/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:17:1-35:12
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/01be65871f42ae9c2d7120f763b61e51/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c0fdf696c7239aa9f423e118080b9bea/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.runtime:runtime-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/4fea9ba30c1720a3414b7f6c31790aa7/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/albinsojan/.gradle/caches/transforms-4/852632e0262c7a136fb9cfe81076c8a1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/411defaecdf1d0e62097c364ea156134/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/8440179f9447b53a0672ab5307c5b7b8/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/a9bc8a74b5785d0dd9a3230d3f58ec8f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/0194e88d095f2ee3c59a54667762357b/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/e915a100e4099874e1921212c541d743/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
+INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/ff7510085519878e470c837907e75b65/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/263a66419cb44e6d2d3009d439ff640c/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/3ab0c094a558ea63ef560582903506d9/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/c9ec2e165375ae8698bd15173e9d08ab/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/32a8555fbd5d1192680c96a515ce3b2a/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5262e4bd942342ef97f300dfdf6055df/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6ee046097fbb2906158740bef846e5e4/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6faa02a212d0131bf7af98242ff132de/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6d096ddf47026d3d9cf12974e7448630/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e96ad0bef5bcd3edd823fe3433b2d0e3/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/f40b8d9c6efd6e85bbed67fba921554b/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/e962c23756216d492954cd051c7ad78e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/48e7fc121bd4482b703d85006a822834/transformed/savedstate-1.2.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/f02b6f1381b75943111e8f35c212a09a/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/121efb4a7f3b70b2b7e9443b3d61f4d5/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/9a08809c54eb985dc1b62114e3565b9b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:17:1-23:12
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/23f21ece05d5ba45e4a1768655bcba59/transformed/core-ktx-1.13.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/c455908ddface6494575feb187a07f87/transformed/autofill-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/592e000e69da206ea846defd65a0ab92/transformed/lifecycle-runtime-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/2277ae5f3a215cb34bfb5916bee21e1d/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/e2c74b546a67459acfcecc5a350b2db4/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/58c2142f252e8645b900f4dbfaa68918/transformed/ui-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.activity:activity:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/0c218fe9a355fd26c2ba4011c7b728e4/transformed/activity-1.9.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/c9621ca4f8490e3d3b880e14af40146e/transformed/activity-compose-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/93aa10af9b7f22c70fdb679791de1ce5/transformed/activity-ktx-1.9.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/2e5180e45b4ce3a4063351dd1f2580e2/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/ca02d21c96d9286545d647e18c6e18c4/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b556e3e938fe7df37dca5e2da3181b5f/transformed/runtime-saveable-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.runtime:runtime-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/1bf5152548079b8aa76a2976ea8c3513/transformed/runtime-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/albinsojan/.gradle/caches/transforms-4/ab9c14b74dc217502c1b305eda2ab227/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/1f11cd3ce3fbd28c1b5dfafe9ed01acd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/77133755cdebdc680b5161e8ff733852/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/55af9a1b22e8789addce2ade8e880650/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/c6f009bf41db82bf7e8a9b677c5db5f3/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/66f0af776ee4223a864b08777962278b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 	package
 		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
 	android:versionName
@@ -59,300 +64,318 @@ MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/ca
 		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:5:5-79
+	android:name
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:5:1-76
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:5:18-74
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:6:5-76
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:7:5-76
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:6:22-74
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:7:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:7:4-90
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:8:4-90
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:7:21-88
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:8:21-88
+uses-permission#android.permission.CHANGE_NETWORK_STATE
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:9:5-79
+	android:name
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:9:22-76
 application
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:9:5-42:19
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:9:5-42:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:22:5-26:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:23:5-33:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/411defaecdf1d0e62097c364ea156134/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/411defaecdf1d0e62097c364ea156134/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/a9bc8a74b5785d0dd9a3230d3f58ec8f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/a9bc8a74b5785d0dd9a3230d3f58ec8f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:11:5-44:19
+INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:11:5-44:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:28:5-89
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/1f11cd3ce3fbd28c1b5dfafe9ed01acd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/1f11cd3ce3fbd28c1b5dfafe9ed01acd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/55af9a1b22e8789addce2ade8e880650/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/55af9a1b22e8789addce2ade8e880650/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
 		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
-		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
+		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:17:9-35
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:15:9-41
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:17:9-41
 	android:fullBackupContent
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:13:9-54
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:15:9-54
 	tools:ignore
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:20:9-51
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:22:9-51
 	android:roundIcon
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:16:9-54
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:18:9-54
 	tools:targetApi
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:19:9-29
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:21:9-29
 	android:icon
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:14:9-43
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:11:9-35
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:18:9-68
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:20:9-68
 	android:dataExtractionRules
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:12:9-65
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:14:9-65
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:10:9-35
-activity#com.albin.playsoundtheinonehourintervals.MainActivity
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:22:9-32:20
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:12:9-66
+activity#com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.MainActivity
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:24:9-34:20
 	android:label
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:25:13-45
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:27:13-45
 	android:exported
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:24:13-36
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:26:13-36
 	android:theme
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:26:13-72
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:28:13-72
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:23:13-41
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:25:13-72
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:27:13-31:29
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:29:13-33:29
 action#android.intent.action.MAIN
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:28:17-69
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:28:25-66
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:30:17-77
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:32:17-77
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:30:27-74
-receiver#com.albin.playsoundtheinonehourintervals.MyBroadcastReceiver
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:33:9-38:20
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:32:27-74
+receiver#com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.MyBroadcastReceiver
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:35:9-40:20
 	android:exported
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:34:13-36
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:36:13-36
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:33:19-54
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:35:19-85
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:35:9-37:25
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:37:9-39:25
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:36:13-75
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:38:13-75
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:36:21-72
-service#com.albin.playsoundtheinonehourintervals.RunningService
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:39:9-41:38
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:38:21-72
+service#com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.RunningService
+ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:41:9-43:38
 	android:enabled
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:41:13-35
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:43:13-35
 	android:foregroundServiceType
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:40:13-58
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:42:13-58
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:39:18-48
+		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:41:18-79
 uses-sdk
 INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
 INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/95e8685b39a10d2f1bbfce7c1fba2095/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/95e8685b39a10d2f1bbfce7c1fba2095/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/4449ab0ec534e73ee72a7dccbe3d263b/transformed/material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/4449ab0ec534e73ee72a7dccbe3d263b/transformed/material-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/87cdf24e008225a7f9337c8ee82dc616/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/87cdf24e008225a7f9337c8ee82dc616/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/043338d6f7ee867d71b3ec8131462065/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/043338d6f7ee867d71b3ec8131462065/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3a4a4d90430dbc75af90875bf77c2382/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3a4a4d90430dbc75af90875bf77c2382/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c14f2cabfded4342a978dc75bc2b2df4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c14f2cabfded4342a978dc75bc2b2df4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/f44e29deb524d7f5df18696b30f507fa/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/f44e29deb524d7f5df18696b30f507fa/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/906510ccb7c9cd64e23833dab4ed2765/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/906510ccb7c9cd64e23833dab4ed2765/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9ee7e826c46392634591f68fa25fe6e2/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9ee7e826c46392634591f68fa25fe6e2/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/1375622b2e8b36e46ac3315e34617a5f/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/1375622b2e8b36e46ac3315e34617a5f/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/4a0bb57a8837c46c1ca6feddf6de7d56/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/4a0bb57a8837c46c1ca6feddf6de7d56/transformed/ui-util-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/51edb24b3e9933c88e7344feecfd4429/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/51edb24b3e9933c88e7344feecfd4429/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d73bfb5e34fae60b2855d815bc3c72b6/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d73bfb5e34fae60b2855d815bc3c72b6/transformed/ui-text-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c6ac024fd84d72e65df7efc53b617c59/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c6ac024fd84d72e65df7efc53b617c59/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/66fd427a5d711da0cb84f1c3b0db26a1/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/66fd427a5d711da0cb84f1c3b0db26a1/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/8fb689763f655b8effc6c3ac27e38bbf/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/8fb689763f655b8effc6c3ac27e38bbf/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/cafcffaf0863406e6bb7c7cc1e7f2641/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/cafcffaf0863406e6bb7c7cc1e7f2641/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/b74cd8e1b7ed02592ab173061f5cc852/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/b74cd8e1b7ed02592ab173061f5cc852/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/9d65a755b99fc3d9cafc52e2a699cf1d/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/9d65a755b99fc3d9cafc52e2a699cf1d/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/171803becddb607136239c851e529441/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/171803becddb607136239c851e529441/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/e6e16ce284d0680c58da119d1369229c/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.core:core-ktx:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/e6e16ce284d0680c58da119d1369229c/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/d6bfac3fa35b2d5a4f74910de3c07516/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.autofill:autofill:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/d6bfac3fa35b2d5a4f74910de3c07516/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/4e9ac084f5b368f6537d05bae2facc86/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/4e9ac084f5b368f6537d05bae2facc86/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d63c754e75c1d872066915fa31a433f9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d63c754e75c1d872066915fa31a433f9/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/5568fe0563d899c1fe6d690d4af52546/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/5568fe0563d899c1fe6d690d4af52546/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e78471073bb731600d8cf9d7ff60f718/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e78471073bb731600d8cf9d7ff60f718/transformed/ui-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/68b4360b32e8134454857734048552db/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/68b4360b32e8134454857734048552db/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.activity:activity-compose:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/77d2d0264600880daa405285b99243c0/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-compose:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/77d2d0264600880daa405285b99243c0/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/6b1a3a01a18b311ea8cba03560980cd7/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/6b1a3a01a18b311ea8cba03560980cd7/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/e1adecb7896c5fbb5dc7b0a415a112c3/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/e1adecb7896c5fbb5dc7b0a415a112c3/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:21:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/01be65871f42ae9c2d7120f763b61e51/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/01be65871f42ae9c2d7120f763b61e51/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c0fdf696c7239aa9f423e118080b9bea/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/c0fdf696c7239aa9f423e118080b9bea/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/4fea9ba30c1720a3414b7f6c31790aa7/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.runtime:runtime-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/4fea9ba30c1720a3414b7f6c31790aa7/transformed/runtime-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/albinsojan/.gradle/caches/transforms-4/852632e0262c7a136fb9cfe81076c8a1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/albinsojan/.gradle/caches/transforms-4/852632e0262c7a136fb9cfe81076c8a1/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/411defaecdf1d0e62097c364ea156134/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/411defaecdf1d0e62097c364ea156134/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/8440179f9447b53a0672ab5307c5b7b8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/8440179f9447b53a0672ab5307c5b7b8/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/a9bc8a74b5785d0dd9a3230d3f58ec8f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/a9bc8a74b5785d0dd9a3230d3f58ec8f/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/0194e88d095f2ee3c59a54667762357b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/0194e88d095f2ee3c59a54667762357b/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/e915a100e4099874e1921212c541d743/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
-MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/e915a100e4099874e1921212c541d743/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/ff7510085519878e470c837907e75b65/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/ff7510085519878e470c837907e75b65/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/263a66419cb44e6d2d3009d439ff640c/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/263a66419cb44e6d2d3009d439ff640c/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/3ab0c094a558ea63ef560582903506d9/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/3ab0c094a558ea63ef560582903506d9/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/c9ec2e165375ae8698bd15173e9d08ab/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/c9ec2e165375ae8698bd15173e9d08ab/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/32a8555fbd5d1192680c96a515ce3b2a/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/32a8555fbd5d1192680c96a515ce3b2a/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5262e4bd942342ef97f300dfdf6055df/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5262e4bd942342ef97f300dfdf6055df/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6ee046097fbb2906158740bef846e5e4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6ee046097fbb2906158740bef846e5e4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6faa02a212d0131bf7af98242ff132de/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6faa02a212d0131bf7af98242ff132de/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6d096ddf47026d3d9cf12974e7448630/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6d096ddf47026d3d9cf12974e7448630/transformed/ui-text-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e96ad0bef5bcd3edd823fe3433b2d0e3/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e96ad0bef5bcd3edd823fe3433b2d0e3/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/f40b8d9c6efd6e85bbed67fba921554b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/f40b8d9c6efd6e85bbed67fba921554b/transformed/ui-geometry-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/e962c23756216d492954cd051c7ad78e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate-ktx:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/e962c23756216d492954cd051c7ad78e/transformed/savedstate-ktx-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/48e7fc121bd4482b703d85006a822834/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] /Users/albinsojan/.gradle/caches/transforms-4/48e7fc121bd4482b703d85006a822834/transformed/savedstate-1.2.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/f02b6f1381b75943111e8f35c212a09a/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/f02b6f1381b75943111e8f35c212a09a/transformed/lifecycle-livedata-core-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/121efb4a7f3b70b2b7e9443b3d61f4d5/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/121efb4a7f3b70b2b7e9443b3d61f4d5/transformed/lifecycle-viewmodel-savedstate-2.8.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/9a08809c54eb985dc1b62114e3565b9b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.customview:customview-poolingcontainer:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/9a08809c54eb985dc1b62114e3565b9b/transformed/customview-poolingcontainer-1.0.0/AndroidManifest.xml:20:5-21:38
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/23f21ece05d5ba45e4a1768655bcba59/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/23f21ece05d5ba45e4a1768655bcba59/transformed/core-ktx-1.13.1/AndroidManifest.xml:5:5-44
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/c455908ddface6494575feb187a07f87/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.autofill:autofill:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/c455908ddface6494575feb187a07f87/transformed/autofill-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/592e000e69da206ea846defd65a0ab92/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/592e000e69da206ea846defd65a0ab92/transformed/lifecycle-runtime-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/2277ae5f3a215cb34bfb5916bee21e1d/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/2277ae5f3a215cb34bfb5916bee21e1d/transformed/lifecycle-viewmodel-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/e2c74b546a67459acfcecc5a350b2db4/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-compose-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/e2c74b546a67459acfcecc5a350b2db4/transformed/lifecycle-viewmodel-compose-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/58c2142f252e8645b900f4dbfaa68918/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/58c2142f252e8645b900f4dbfaa68918/transformed/ui-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/0c218fe9a355fd26c2ba4011c7b728e4/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/0c218fe9a355fd26c2ba4011c7b728e4/transformed/activity-1.9.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/c9621ca4f8490e3d3b880e14af40146e/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-compose:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/c9621ca4f8490e3d3b880e14af40146e/transformed/activity-compose-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/93aa10af9b7f22c70fdb679791de1ce5/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.activity:activity-ktx:1.9.0] /Users/albinsojan/.gradle/caches/transforms-4/93aa10af9b7f22c70fdb679791de1ce5/transformed/activity-ktx-1.9.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/2e5180e45b4ce3a4063351dd1f2580e2/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/2e5180e45b4ce3a4063351dd1f2580e2/transformed/lifecycle-viewmodel-ktx-2.8.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/ca02d21c96d9286545d647e18c6e18c4/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx-android:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/ca02d21c96d9286545d647e18c6e18c4/transformed/lifecycle-runtime-ktx-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b556e3e938fe7df37dca5e2da3181b5f/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-saveable-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b556e3e938fe7df37dca5e2da3181b5f/transformed/runtime-saveable-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/1bf5152548079b8aa76a2976ea8c3513/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.runtime:runtime-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/1bf5152548079b8aa76a2976ea8c3513/transformed/runtime-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/albinsojan/.gradle/caches/transforms-4/ab9c14b74dc217502c1b305eda2ab227/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.4.0] /Users/albinsojan/.gradle/caches/transforms-4/ab9c14b74dc217502c1b305eda2ab227/transformed/annotation-experimental-1.4.0/AndroidManifest.xml:5:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/1f11cd3ce3fbd28c1b5dfafe9ed01acd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/1f11cd3ce3fbd28c1b5dfafe9ed01acd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/77133755cdebdc680b5161e8ff733852/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/77133755cdebdc680b5161e8ff733852/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/55af9a1b22e8789addce2ade8e880650/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/55af9a1b22e8789addce2ade8e880650/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/c6f009bf41db82bf7e8a9b677c5db5f3/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/c6f009bf41db82bf7e8a9b677c5db5f3/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/66f0af776ee4223a864b08777962278b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/66f0af776ee4223a864b08777962278b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
 		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
 		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
-ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/3745b4ae13827ba83e1a78ce3944a704/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
+		ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:24:13-71
 provider#androidx.startup.InitializationProvider
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/411defaecdf1d0e62097c364ea156134/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
-MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/411defaecdf1d0e62097c364ea156134/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/1f11cd3ce3fbd28c1b5dfafe9ed01acd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/1f11cd3ce3fbd28c1b5dfafe9ed01acd/transformed/startup-runtime-1.1.1/AndroidManifest.xml:26:9-30:34
 	tools:node
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:28:13-31
 	android:authorities
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:26:13-68
 	android:exported
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:27:13-37
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:25:13-67
 meta-data#androidx.emoji2.text.EmojiCompatInitializer
-ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/2aa0a88b5165ae0c17f72e4e61e103d7/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
+		ADDED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:30:17-75
 permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
 permission#com.albin.playsoundtheinonehourintervals.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
+ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
-		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
+		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
+		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
 uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 uses-permission#com.albin.playsoundtheinonehourintervals.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
-ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
+ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
-		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
+		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
 activity#androidx.activity.ComponentActivity
-ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:23:9-25:39
+ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:23:9-25:39
 	android:exported
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:25:13-36
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:25:13-36
 	android:name
-		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/b8ec4073db671aa14ed63a4fb6f22d81/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:24:13-63
+		ADDED from [androidx.compose.ui:ui-test-manifest:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/76bb118a39b1176d9e9f65421cea044d/transformed/ui-test-manifest-1.6.0/AndroidManifest.xml:24:13-63
 meta-data#androidx.lifecycle.ProcessLifecycleInitializer
-ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d3e4a99b9f9f8a9c39ee0160a76f734e/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:30:17-78
+		ADDED from [androidx.lifecycle:lifecycle-process:2.8.0] /Users/albinsojan/.gradle/caches/transforms-4/d8b5fc1e012bf0347897c2dad4f0c078/transformed/lifecycle-process-2.8.0/AndroidManifest.xml:30:17-78
 meta-data#androidx.profileinstaller.ProfileInstallerInitializer
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:29:13-31:52
 	android:value
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:31:17-49
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:30:17-85
 receiver#androidx.profileinstaller.ProfileInstallReceiver
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:34:9-52:20
 	android:enabled
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:37:13-35
 	android:exported
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:38:13-36
 	android:permission
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:39:13-57
 	android:directBootAware
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:36:13-44
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:35:13-76
 intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:40:13-42:29
 action#androidx.profileinstaller.action.INSTALL_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:17-91
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:41:25-88
 intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:43:13-45:29
 action#androidx.profileinstaller.action.SKIP_FILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:17-85
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:44:25-82
 intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:46:13-48:29
 action#androidx.profileinstaller.action.SAVE_PROFILE
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:17-88
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:47:25-85
 intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:49:13-51:29
 action#androidx.profileinstaller.action.BENCHMARK_OPERATION
-ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:17-95
 	android:name
-		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/d9f962c72134b2d39c11007c362d3bcb/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.1] /Users/albinsojan/.gradle/caches/transforms-4/fc4bf4737501af4ffb001e6ef5112b59/transformed/profileinstaller-1.3.1/AndroidManifest.xml:50:25-92

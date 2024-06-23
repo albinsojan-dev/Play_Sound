@@ -8,5 +8,8 @@
     <color name="teal_700">#FF018786</color>
     <color name="white">#FFFFFFFF</color>
     <string name="app_name">Play sound the in one hour intervals</string>
+    <string name="clock_sound">Clock Sound</string>
+    <string name="setting">Setting</string>
+    <string name="wifi_sound">Wifi Sound</string>
     <style name="Theme.PlaySoundTheInOneHourIntervals" parent="android:Theme.Material.Light.NoActionBar"/>
 </resources>

@@ -2,12 +2,14 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools">
 
-<uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"/>
+    <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
 
     <application
-        android:name=".RunningApp"
+        android:name=".PlaytheSoundinOneHourIntervals.RunningApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -20,7 +22,7 @@
         tools:ignore="ForegroundServicePermission">
 
         <activity
-            android:name=".MainActivity"
+            android:name=".PlaytheSoundinOneHourIntervals.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.PlaySoundTheInOneHourIntervals">
@@ -30,13 +32,13 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <receiver android:name=".MyBroadcastReceiver"
+        <receiver android:name=".PlaytheSoundinOneHourIntervals.MyBroadcastReceiver"
             android:exported="true">
         <intent-filter>
             <action android:name="android.intent.action.BOOT_COMPLETED" />
         </intent-filter>
         </receiver>
-        <service android:name=".RunningService"
+        <service android:name=".PlaytheSoundinOneHourIntervals.RunningService"
             android:foregroundServiceType="mediaPlayback"
             android:enabled="true" />
     </application>

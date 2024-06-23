@@ -7,6 +7,7 @@ color purple_700
 color teal_200
 color teal_700
 color white
+drawable baseline_settings_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 mipmap ic_launcher
@@ -34,8 +35,13 @@ raw twenty_one
 raw twenty_three
 raw twenty_two
 raw two
+raw yourdeviceconnecttowifi
+raw yourdevicedisconnectedfromwifi
 raw zero
 string app_name
+string clock_sound
+string setting
+string wifi_sound
 style Theme.PlaySoundTheInOneHourIntervals
 xml backup_rules
 xml data_extraction_rules
