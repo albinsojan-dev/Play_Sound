@@ -1,4 +1,4 @@
-com.albin.playsoundtheinonehourintervals
+com.albin.playSound
 attr action
 attr alpha
 attr argType

@@ -1,27 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.albin.playsoundtheinonehourintervals.test.app-mergeDebugAndroidTestResources-32:/values-te/values-te.xml",
+            "outputFile": "com.albin.playSound.test.app-mergeDebugAndroidTestResources-32:/values-te/values-te.xml",
             "map": [
                 {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/res/values-te/values-te.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,157,265,367,468,574,681,805",
-                        "endColumns": "101,107,101,100,105,106,123,100",
-                        "endOffsets": "152,260,362,463,569,676,800,901"
-                    },
-                    "to": {
-                        "startLines": "2,3,4,5,6,7,8,23",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "105,207,315,417,518,624,731,2078",
-                        "endColumns": "101,107,101,100,105,106,123,100",
-                        "endOffsets": "202,310,412,513,619,726,850,2174"
-                    }
-                },
-                {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/e78471073bb731600d8cf9d7ff60f718/transformed/ui-release/res/values-te/values-te.xml",
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/58c2142f252e8645b900f4dbfaa68918/transformed/ui-release/res/values-te/values-te.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "855,951,1038,1135,1235,1324,1413,1509,1597,1681,1754,1827,1911,2001,2179,2256,2325",
                         "endColumns": "95,86,96,99,88,88,95,87,83,72,72,83,89,76,76,68,116",
                         "endOffsets": "946,1033,1130,1230,1319,1408,1504,1592,1676,1749,1822,1906,1996,2073,2251,2320,2437"
+                    }
+                },
+                {
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/res/values-te/values-te.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,157,265,367,468,574,681,805",
+                        "endColumns": "101,107,101,100,105,106,123,100",
+                        "endOffsets": "152,260,362,463,569,676,800,901"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,23",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,207,315,417,518,624,731,2078",
+                        "endColumns": "101,107,101,100,105,106,123,100",
+                        "endOffsets": "202,310,412,513,619,726,850,2174"
                     }
                 }
             ]

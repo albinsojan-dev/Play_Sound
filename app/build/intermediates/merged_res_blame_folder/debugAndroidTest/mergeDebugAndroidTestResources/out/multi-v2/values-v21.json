@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.albin.playsoundtheinonehourintervals.test.app-mergeDebugAndroidTestResources-32:/values-v21/values-v21.xml",
+            "outputFile": "com.albin.playSound.test.app-mergeDebugAndroidTestResources-32:/values-v21/values-v21.xml",
             "map": [
                 {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/9d14a9eb7c2635c307fe8681fb04b7b2/transformed/core-1.5.0/res/values-v21/values.xml",
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/8cd0cb95b77cbe73ff9a1676985e2049/transformed/core-1.5.0/res/values-v21/values.xml",
                     "from": {
                         "startLines": "4,13",
                         "startColumns": "0,0",
@@ -23,7 +23,7 @@
                     }
                 },
                 {
-                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/31c24115eb4edfbb4d82e595891a2157/transformed/core-1.13.1/res/values-v21/values-v21.xml",
+                    "source": "/Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/res/values-v21/values-v21.xml",
                     "from": {
                         "startLines": "2,3,4,5,6,7,8,9,10,13",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4",

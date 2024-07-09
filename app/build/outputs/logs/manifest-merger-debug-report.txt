@@ -1,15 +1,15 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:1-46:12
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:1-47:12
+INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:1-47:12
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/ff7510085519878e470c837907e75b65/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/263a66419cb44e6d2d3009d439ff640c/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/3ab0c094a558ea63ef560582903506d9/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/c9ec2e165375ae8698bd15173e9d08ab/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/32a8555fbd5d1192680c96a515ce3b2a/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
@@ -55,38 +55,38 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albi
 MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/transforms-4/c6f009bf41db82bf7e8a9b677c5db5f3/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/66f0af776ee4223a864b08777962278b/transformed/core-runtime-2.2.0/AndroidManifest.xml:17:1-22:12
 	package
-		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:3:5-51
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
-		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:11-69
 uses-permission#android.permission.ACCESS_NETWORK_STATE
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:5:5-79
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:5:5-79
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:5:22-76
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:5:22-76
 uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:6:5-80
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:6:5-80
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:6:22-78
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:6:22-78
 uses-permission#android.permission.FOREGROUND_SERVICE
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:7:5-76
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:7:5-76
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:7:22-74
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:7:22-74
 uses-permission#android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:8:4-90
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:8:5-91
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:8:21-88
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:8:22-89
 uses-permission#android.permission.CHANGE_NETWORK_STATE
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:9:5-79
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:9:5-79
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:9:22-76
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:9:22-76
 application
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:11:5-44:19
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:11:5-44:19
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:11:5-45:19
+INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:11:5-45:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:22:5-26:19
 MERGED from [androidx.emoji2:emoji2:1.3.0] /Users/albinsojan/.gradle/caches/transforms-4/4d0cd78f4066fb8d5d2a539359155ef8/transformed/emoji2-1.3.0/AndroidManifest.xml:23:5-33:19
@@ -104,75 +104,77 @@ MERGED from [androidx.startup:startup-runtime:1.1.1] /Users/albinsojan/.gradle/c
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/55af9a1b22e8789addce2ade8e880650/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/55af9a1b22e8789addce2ade8e880650/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
 	android:extractNativeLibs
-		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
 	android:appComponentFactory
 		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:28:18-86
 	android:supportsRtl
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:19:9-35
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:19:9-35
 	android:label
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:17:9-41
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:17:9-41
 	android:fullBackupContent
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:15:9-54
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:15:9-54
 	tools:ignore
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:22:9-51
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:22:9-51
 	android:roundIcon
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:18:9-54
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:18:9-54
 	tools:targetApi
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:21:9-29
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:21:9-29
 	android:icon
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:16:9-43
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:16:9-43
 	android:allowBackup
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:13:9-35
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:13:9-35
 	android:theme
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:20:9-68
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:20:9-68
 	android:dataExtractionRules
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:14:9-65
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:14:9-65
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:12:9-66
-activity#com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.MainActivity
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:24:9-34:20
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:12:9-41
+activity#com.albin.playSound.clock.MainActivity
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:24:9-33:20
 	android:label
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:27:13-45
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:27:13-45
 	android:exported
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:26:13-36
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:26:13-36
 	android:theme
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:28:13-72
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:28:13-72
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:25:13-72
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:25:13-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:29:13-33:29
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:29:13-32:29
 action#android.intent.action.MAIN
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:30:17-69
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:30:17-69
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:30:25-66
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:30:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:32:17-77
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:32:27-74
-receiver#com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.MyBroadcastReceiver
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:35:9-40:20
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:27-74
+receiver#com.albin.playSound.clock.MyBroadcastReceiver
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:35:9-40:20
 	android:exported
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:36:13-36
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:36:13-36
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:35:19-85
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:35:19-60
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:37:9-39:25
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:37:13-39:29
 action#android.intent.action.BOOT_COMPLETED
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:38:13-75
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:38:17-79
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:38:21-72
-service#com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.RunningService
-ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:41:9-43:38
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:38:25-76
+service#com.albin.playSound.clock.RunningService
+ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:9-44:38
 	android:enabled
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:43:13-35
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:44:13-35
 	android:foregroundServiceType
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:42:13-58
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:43:13-58
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml:41:18-79
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:18-54
 uses-sdk
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
-INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
+INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
+INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/ff7510085519878e470c837907e75b65/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
@@ -183,8 +185,6 @@ MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/3ab0c094a558ea63ef560582903506d9/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/c9ec2e165375ae8698bd15173e9d08ab/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
@@ -274,9 +274,9 @@ MERGED from [androidx.tracing:tracing:1.0.0] /Users/albinsojan/.gradle/caches/tr
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/66f0af776ee4223a864b08777962278b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 MERGED from [androidx.arch.core:core-runtime:2.2.0] /Users/albinsojan/.gradle/caches/transforms-4/66f0af776ee4223a864b08777962278b/transformed/core-runtime-2.2.0/AndroidManifest.xml:20:5-44
 	android:targetSdkVersion
-		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/albinsojan/AndroidStudioProjects/Playsoundtheinonehourintervals/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
 activity#androidx.compose.ui.tooling.PreviewActivity
 ADDED from [androidx.compose.ui:ui-tooling-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/9a79f065a647120edba1cc15ab345e7d/transformed/ui-tooling-release/AndroidManifest.xml:23:9-25:39
 	android:exported
@@ -311,7 +311,7 @@ ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transfor
 		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
 	android:name
 		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:23:9-81
-permission#com.albin.playsoundtheinonehourintervals.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+permission#com.albin.playSound.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:22:5-24:47
 	android:protectionLevel
 		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:24:9-44
@@ -321,7 +321,7 @@ uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:22-94
-uses-permission#com.albin.playsoundtheinonehourintervals.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+uses-permission#com.albin.playSound.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
 ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:5-97
 	android:name
 		ADDED from [androidx.core:core:1.13.1] /Users/albinsojan/.gradle/caches/transforms-4/b4922f6d360a20f33aa4d6134b63aee5/transformed/core-1.13.1/AndroidManifest.xml:26:22-94

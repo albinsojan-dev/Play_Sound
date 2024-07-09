@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.albin.playsoundtheinonehourintervals"
+    package="com.albin.playSound"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -15,13 +15,13 @@
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
 
     <permission
-        android:name="com.albin.playsoundtheinonehourintervals.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+        android:name="com.albin.playSound.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
         android:protectionLevel="signature" />
 
-    <uses-permission android:name="com.albin.playsoundtheinonehourintervals.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+    <uses-permission android:name="com.albin.playSound.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
-        android:name="com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.RunningApp"
+        android:name="com.albin.playSound.clock.RunningApp"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -35,7 +35,7 @@
         android:testOnly="true"
         android:theme="@style/Theme.PlaySoundTheInOneHourIntervals" >
         <activity
-            android:name="com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.MainActivity"
+            android:name="com.albin.playSound.clock.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.PlaySoundTheInOneHourIntervals" >
@@ -47,7 +47,7 @@
         </activity>
 
         <receiver
-            android:name="com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.MyBroadcastReceiver"
+            android:name="com.albin.playSound.clock.MyBroadcastReceiver"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
@@ -55,7 +55,7 @@
         </receiver>
 
         <service
-            android:name="com.albin.playsoundtheinonehourintervals.PlaytheSoundinOneHourIntervals.RunningService"
+            android:name="com.albin.playSound.clock.RunningService"
             android:enabled="true"
             android:foregroundServiceType="mediaPlayback" />
 
@@ -65,7 +65,7 @@
 
         <provider
             android:name="androidx.startup.InitializationProvider"
-            android:authorities="com.albin.playsoundtheinonehourintervals.androidx-startup"
+            android:authorities="com.albin.playSound.androidx-startup"
             android:exported="false" >
             <meta-data
                 android:name="androidx.emoji2.text.EmojiCompatInitializer"

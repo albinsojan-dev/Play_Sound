@@ -5,11 +5,11 @@
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED"/>
     <uses-permission android:name="android.permission.FOREGROUND_SERVICE"/>
-   <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"/>
+    <uses-permission android:name="android.permission.FOREGROUND_SERVICE_MEDIA_PLAYBACK"/>
     <uses-permission android:name="android.permission.CHANGE_NETWORK_STATE" />
 
     <application
-        android:name=".PlaytheSoundinOneHourIntervals.RunningApp"
+        android:name=".clock.RunningApp"
         android:allowBackup="true"
         android:dataExtractionRules="@xml/data_extraction_rules"
         android:fullBackupContent="@xml/backup_rules"
@@ -22,23 +22,24 @@
         tools:ignore="ForegroundServicePermission">
 
         <activity
-            android:name=".PlaytheSoundinOneHourIntervals.MainActivity"
+            android:name=".clock.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.PlaySoundTheInOneHourIntervals">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <receiver android:name=".PlaytheSoundinOneHourIntervals.MyBroadcastReceiver"
+
+        <receiver android:name=".clock.MyBroadcastReceiver"
             android:exported="true">
-        <intent-filter>
-            <action android:name="android.intent.action.BOOT_COMPLETED" />
-        </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+            </intent-filter>
         </receiver>
-        <service android:name=".PlaytheSoundinOneHourIntervals.RunningService"
+
+        <service android:name=".clock.RunningService"
             android:foregroundServiceType="mediaPlayback"
             android:enabled="true" />
     </application>

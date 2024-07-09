@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.albin.playsoundtheinonehourintervals",
+  "applicationId": "com.albin.playSound",
   "variantName": "debug",
   "elements": [
     {

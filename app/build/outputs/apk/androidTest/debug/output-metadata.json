@@ -4,7 +4,7 @@
     "type": "APK",
     "kind": "Directory"
   },
-  "applicationId": "com.albin.playsoundtheinonehourintervals.test",
+  "applicationId": "com.albin.playSound.test",
   "variantName": "debugAndroidTest",
   "elements": [
     {

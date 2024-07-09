@@ -1,4 +1,4 @@
-com.albin.playsoundtheinonehourintervals.test
+com.albin.playSound.test
 attr alpha
 attr font
 attr fontProviderAuthority

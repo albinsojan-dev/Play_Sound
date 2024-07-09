@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.albin.playsoundtheinonehourintervals.app-mergeDebugResources-48:/values-sw/values-sw.xml",
+            "outputFile": "com.albin.playSound.app-mergeDebugResources-48:/values-sw/values-sw.xml",
             "map": [
                 {
                     "source": "/Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/res/values-sw/values-sw.xml",

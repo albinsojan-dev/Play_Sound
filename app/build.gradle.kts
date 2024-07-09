@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "com.albin.playsoundtheinonehourintervals"
+    namespace = "com.albin.playSound"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "com.albin.playsoundtheinonehourintervals"
+        applicationId = "com.albin.playSound"
         minSdk = 24
         targetSdk = 34
         versionCode = 1
