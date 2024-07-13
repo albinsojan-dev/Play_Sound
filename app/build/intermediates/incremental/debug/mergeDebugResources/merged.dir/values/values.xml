@@ -195,6 +195,9 @@
     <string name="tooltip_label">show tooltip</string>
     <string name="tooltip_long_press_label">Show tooltip</string>
     <string name="tooltip_pane_description">Tooltip</string>
+    <string name="twelve_time">1:00 PM</string>
+    <string name="twenty_four_time">13:00</string>
+    <string name="use_24_hour_format">Use 24-hour format</string>
     <string name="wifi_sound">Wifi Sound</string>
     <style name="DialogWindowTheme">
         <item name="android:windowClipToOutline">false</item>

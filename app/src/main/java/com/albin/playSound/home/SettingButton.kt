@@ -1,5 +1,6 @@
 package com.albin.playSound.home
 
+import android.app.Activity.MODE_PRIVATE
 import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.background
@@ -23,24 +24,36 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.res.stringResource
+import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import com.albin.playSound.R
 import com.albin.playSound.bridge.SwitchClock
 import com.albin.playSound.bridge.SwitchWifi
+import java.time.Clock
 
+
+@RequiresApi(Build.VERSION_CODES.O)
 class SettingButton {
 
-    @RequiresApi(Build.VERSION_CODES.O)
     @Composable
     fun SwitchWithCallback() {
 
         val context = LocalContext.current
         var isClock by remember { mutableStateOf(false) }
         var isSound by remember { mutableStateOf(false) }
+        var isHourFormat by remember { mutableStateOf(false) }
 
-        SwitchClock().Clock(context, isClock)
+        // Retrieve shared preferences
+        val sharedPreferences = context.getSharedPreferences("MyPrefs", MODE_PRIVATE)
+
+        // Read initial values from shared preferences
+        isClock = sharedPreferences.getBoolean("play_Clock", false)
+        isSound = sharedPreferences.getBoolean("play_Wifi", false)
+        isHourFormat = sharedPreferences.getBoolean("24_hour_format", false)
+
+        SwitchClock().Clock(context,isClock, isHourFormat)
         SwitchWifi().Wifi(context, isSound)
 
         Column(
@@ -48,7 +61,7 @@ class SettingButton {
                 .background(Color.White)
                 .fillMaxSize()
                 .padding(25.dp),
-            horizontalAlignment = Alignment.End,
+            horizontalAlignment = Alignment.Start,
             verticalArrangement = Arrangement.Top
         ) {
             Row(
@@ -61,14 +74,14 @@ class SettingButton {
                     modifier = Modifier.weight(1f)
                 )
                 Switch(
-                    checked = isClock,
-                    onCheckedChange = {
-                        isClock = it
+                    checked = isClock, onCheckedChange = { checked ->
+                        isClock = checked
+                        sharedPreferences.edit().putBoolean("play_Clock", checked).apply()
                     }, colors = SwitchDefaults.colors(
-                        checkedThumbColor = Color.White, // Color of the thumb when checked
-                        uncheckedThumbColor = Color.White, // Color of the thumb when unchecked
-                        checkedTrackColor = Color.Gray, // Color of the track when checked
-                        uncheckedTrackColor = Color.LightGray // Color of the track when unchecked
+                        checkedThumbColor = Color.White,
+                        uncheckedThumbColor = Color.White,
+                        checkedTrackColor = Color.Gray,
+                        uncheckedTrackColor = Color.LightGray
                     )
                 )
             }
@@ -84,20 +97,55 @@ class SettingButton {
                     modifier = Modifier.weight(1f)
                 )
                 Switch(
-                    checked = isSound,
-                    onCheckedChange = {
-                        isSound = it
+                    checked = isSound, onCheckedChange = { checked ->
+                        isSound = checked
+                        sharedPreferences.edit().putBoolean("play_Wifi", checked).apply()
                     }, colors = SwitchDefaults.colors(
-                        checkedThumbColor = Color.White, // Color of the thumb when checked
-                        uncheckedThumbColor = Color.White, // Color of the thumb when unchecked
-                        checkedTrackColor = Color.Gray, // Color of the track when checked
-                        uncheckedTrackColor = Color.LightGray // Color of the track when unchecked
+                        checkedThumbColor = Color.White,
+                        uncheckedThumbColor = Color.White,
+                        checkedTrackColor = Color.Gray,
+                        uncheckedTrackColor = Color.LightGray
                     )
+                )
+            }
+
+            Spacer(modifier = Modifier.height(16.dp))
+
+            Row(
+                verticalAlignment = Alignment.CenterVertically,
+                modifier = Modifier.padding(bottom = 16.dp)
+            ) {
+                Text(
+                    text = stringResource(R.string.use_24_hour_format),
+                    fontSize = 25.sp,
+                    modifier = Modifier.weight(1f)
+                )
+
+                Switch(
+                    checked = isHourFormat, onCheckedChange = { checked ->
+                        isHourFormat = checked
+                        sharedPreferences.edit().putBoolean("24_hour_format", checked).apply()
+                    }, colors = SwitchDefaults.colors(
+                        checkedThumbColor = Color.White,
+                        uncheckedThumbColor = Color.White,
+                        checkedTrackColor = Color.Gray,
+                        uncheckedTrackColor = Color.LightGray
+                    )
+                )
+            }
+            if (isHourFormat) {
+                Text(
+                    textAlign = TextAlign.Start,
+                    text = stringResource(R.string.twenty_four_time),
+                )
+            } else {
+                Text(
+                    text = stringResource(R.string.twelve_time)
+
                 )
             }
         }
     }
-
     @RequiresApi(Build.VERSION_CODES.O)
     @Preview(showBackground = true)
     @Composable

@@ -309,7 +309,10 @@ int string tooltip_description 0x7f0a0053
 int string tooltip_label 0x7f0a0054
 int string tooltip_long_press_label 0x7f0a0055
 int string tooltip_pane_description 0x7f0a0056
-int string wifi_sound 0x7f0a0057
+int string twelve_time 0x7f0a0057
+int string twenty_four_time 0x7f0a0058
+int string use_24_hour_format 0x7f0a0059
+int string wifi_sound 0x7f0a005a
 int style DialogWindowTheme 0x7f0b0000
 int style FloatingDialogTheme 0x7f0b0001
 int style FloatingDialogWindowTheme 0x7f0b0002

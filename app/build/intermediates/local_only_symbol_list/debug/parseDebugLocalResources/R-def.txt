@@ -41,6 +41,9 @@ raw zero
 string app_name
 string clock_sound
 string setting
+string twelve_time
+string twenty_four_time
+string use_24_hour_format
 string wifi_sound
 style Theme.PlaySoundTheInOneHourIntervals
 xml backup_rules

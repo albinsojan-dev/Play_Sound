@@ -4,23 +4,23 @@ ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/Androi
 INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:1-47:12
 INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:1-47:12
 INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:2:1-47:12
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/ff7510085519878e470c837907e75b65/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.navigation:navigation-common-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/263a66419cb44e6d2d3009d439ff640c/transformed/navigation-common-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/3ab0c094a558ea63ef560582903506d9/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:17:1-22:12
 MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/c9ec2e165375ae8698bd15173e9d08ab/transformed/material-icons-core-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/32a8555fbd5d1192680c96a515ce3b2a/transformed/material-ripple-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5262e4bd942342ef97f300dfdf6055df/transformed/ui-tooling-data-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6ee046097fbb2906158740bef846e5e4/transformed/ui-tooling-preview-release/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6faa02a212d0131bf7af98242ff132de/transformed/ui-util-release/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6d096ddf47026d3d9cf12974e7448630/transformed/ui-text-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e96ad0bef5bcd3edd823fe3433b2d0e3/transformed/ui-graphics-release/AndroidManifest.xml:2:1-7:12
 MERGED from [androidx.compose.ui:ui-geometry-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/f40b8d9c6efd6e85bbed67fba921554b/transformed/ui-geometry-release/AndroidManifest.xml:2:1-7:12
@@ -128,8 +128,8 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albi
 	android:dataExtractionRules
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:14:9-65
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:12:9-41
-activity#com.albin.playSound.clock.MainActivity
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:12:9-40
+activity#com.albin.playSound.main.MainActivity
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:24:9-33:20
 	android:label
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:27:13-45
@@ -138,7 +138,7 @@ ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/Androi
 	android:theme
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:28:13-72
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:25:13-47
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:25:13-46
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:29:13-32:29
 action#android.intent.action.MAIN
@@ -149,32 +149,30 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:17-77
 	android:name
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:27-74
-receiver#com.albin.playSound.clock.MyBroadcastReceiver
+receiver#com.albin.playSound.main.MyBroadcastReceiver
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:35:9-40:20
 	android:exported
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:36:13-36
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:35:19-60
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:35:19-59
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:37:13-39:29
 action#android.intent.action.BOOT_COMPLETED
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:38:17-79
 	android:name
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:38:25-76
-service#com.albin.playSound.clock.RunningService
+service#com.albin.playSound.main.RunningService
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:9-44:38
 	android:enabled
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:44:13-35
 	android:foregroundServiceType
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:43:13-58
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:18-54
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:18-53
 uses-sdk
 INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
 INJECTED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
-MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-common:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/06b96723717c17e92712d7aa63d41603/transformed/navigation-common-2.7.7/AndroidManifest.xml:20:5-44
 MERGED from [androidx.navigation:navigation-runtime:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/ff7510085519878e470c837907e75b65/transformed/navigation-runtime-2.7.7/AndroidManifest.xml:20:5-44
@@ -185,6 +183,8 @@ MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan
 MERGED from [androidx.navigation:navigation-runtime-ktx:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/3ab0c094a558ea63ef560582903506d9/transformed/navigation-runtime-ktx-2.7.7/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
 MERGED from [androidx.navigation:navigation-compose:2.7.7] /Users/albinsojan/.gradle/caches/transforms-4/4bd6b5917f1d3b3d8e9e948f466fba56/transformed/navigation-compose-2.7.7/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.material3:material3:1.1.1] /Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/6a70f464ea249e19b042ea1eefdff7cf/transformed/material-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.material:material-icons-core-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/c9ec2e165375ae8698bd15173e9d08ab/transformed/material-icons-core-release/AndroidManifest.xml:5:5-44
@@ -193,20 +193,20 @@ MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/alb
 MERGED from [androidx.compose.material:material-ripple-android:1.5.0] /Users/albinsojan/.gradle/caches/transforms-4/32a8555fbd5d1192680c96a515ce3b2a/transformed/material-ripple-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5262e4bd942342ef97f300dfdf6055df/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-data-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5262e4bd942342ef97f300dfdf6055df/transformed/ui-tooling-data-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
-MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6ee046097fbb2906158740bef846e5e4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
 MERGED from [androidx.compose.ui:ui-tooling-preview-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6ee046097fbb2906158740bef846e5e4/transformed/ui-tooling-preview-release/AndroidManifest.xml:20:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/25c0bc1e78413f109ded44591ae7b6ff/transformed/foundation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.foundation:foundation-layout-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d6270d650f34b4de07f3631bbdffc15a/transformed/foundation-layout-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-core-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/5562d9de1831a51b1b75695b1bca9cb9/transformed/animation-core-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.animation:animation-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/17f92cfe81d37adf0b9aec3479b37536/transformed/animation-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6faa02a212d0131bf7af98242ff132de/transformed/ui-util-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-util-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6faa02a212d0131bf7af98242ff132de/transformed/ui-util-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
+MERGED from [androidx.compose.ui:ui-unit-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/d75ddb1b564d375eabd67a97ff233b0a/transformed/ui-unit-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6d096ddf47026d3d9cf12974e7448630/transformed/ui-text-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-text-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/6d096ddf47026d3d9cf12974e7448630/transformed/ui-text-release/AndroidManifest.xml:5:5-44
 MERGED from [androidx.compose.ui:ui-graphics-android:1.6.0] /Users/albinsojan/.gradle/caches/transforms-4/e96ad0bef5bcd3edd823fe3433b2d0e3/transformed/ui-graphics-release/AndroidManifest.xml:5:5-44

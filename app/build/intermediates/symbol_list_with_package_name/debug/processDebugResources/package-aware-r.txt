@@ -310,6 +310,9 @@ string tooltip_description
 string tooltip_label
 string tooltip_long_press_label
 string tooltip_pane_description
+string twelve_time
+string twenty_four_time
+string use_24_hour_format
 string wifi_sound
 style DialogWindowTheme
 style FloatingDialogTheme

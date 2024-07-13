@@ -1,6 +1,7 @@
 package com.albin.playSound.home
 
-import android.icu.text.SimpleDateFormat
+import android.annotation.SuppressLint
+import android.content.Context.MODE_PRIVATE
 import android.os.Build
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.background
@@ -27,22 +28,55 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.navigation.NavController
+import androidx.navigation.compose.NavHost
+import androidx.navigation.compose.composable
+import androidx.navigation.compose.rememberNavController
 import com.albin.playSound.R
 import kotlinx.coroutines.delay
+import java.time.LocalTime
+import java.time.format.DateTimeFormatter
 import java.util.Calendar
-import java.util.Locale
 
 class MainUi {
 
     @RequiresApi(Build.VERSION_CODES.O)
     @Composable
-    fun ClockComposable() {
-        val setting = remember { mutableStateOf(false) }
-        val now = remember { mutableStateOf(Calendar.getInstance().time) }
-        val is24HourFormat = android.text.format.DateFormat.is24HourFormat(LocalContext.current)
-        val timeFormat = remember {
-            SimpleDateFormat(if (is24HourFormat) "HH:mm:ss" else "hh:mm:ss a", Locale.getDefault())
+    fun NavController() {
+        val navController = rememberNavController()
+        NavHost(navController = navController, startDestination = "first_screen") {
+            composable("first_screen") {
+                ClockComposable(navController = navController)
+            }
+            composable("second_screen") {
+                SecondScreen()
+            }
         }
+    }
+    @SuppressLint("SuspiciousIndentation")
+    @RequiresApi(Build.VERSION_CODES.O)
+    @Composable
+    fun SecondScreen() {
+        SettingButton().SwitchWithCallback()
+    }
+
+    @RequiresApi(Build.VERSION_CODES.O)
+    @Composable
+    fun ClockComposable(navController: NavController) {
+
+        val sharedPreferences = LocalContext.current.getSharedPreferences("MyPrefs", MODE_PRIVATE)
+        val isHourFormat = sharedPreferences.getBoolean("24_hour_format", false)
+
+        val timeFormatter = if (isHourFormat) {
+            DateTimeFormatter.ofPattern("HH:mm:ss")
+        } else {
+            DateTimeFormatter.ofPattern("hh:mm:ss a")
+        }
+
+        val now = remember { mutableStateOf(Calendar.getInstance().time) }
+        val currentTime = LocalTime.now()
+        val formattedTime = currentTime.format(timeFormatter)
+
         LaunchedEffect(Unit) {
             while (true) {
                 now.value = Calendar.getInstance().time
@@ -68,7 +102,7 @@ class MainUi {
                     horizontalAlignment = Alignment.End
                 ) {
                     Button(
-                        onClick = { setting.value = !setting.value },
+                        onClick = { navController.navigate("second_screen") },
                         colors = ButtonDefaults.buttonColors(
                             containerColor = Color.White, // Background color when the button is enabled
                             contentColor = Color.White, // Content (text) color when the button is enabled
@@ -86,15 +120,11 @@ class MainUi {
                 }
             }
             Text(
-                text = timeFormat.format(now.value),
+                text = formattedTime.format(now.value),
                 fontSize = 65.sp,
                 color = Color.White,
                 fontWeight = FontWeight.Bold
             )
-
-            if (setting.value) {
-                SettingButton().SwitchWithCallback()
-            }
         }
     }
 
@@ -102,7 +132,7 @@ class MainUi {
     @Preview(showBackground = true)
     @Composable
     fun Show() {
-        ClockComposable()
+        NavController()
     }
 }
 
