@@ -12,7 +12,7 @@ class PlaySound {
         val playSound = sharedPreferences.getBoolean("play_wifi", false)
         if (playSound) {
             val manager = context.getSystemService(Context.AUDIO_SERVICE) as AudioManager
-            manager.setStreamVolume(AudioManager.STREAM_MUSIC, 10, 0)
+            manager.setStreamVolume(AudioManager.STREAM_MUSIC,100 , 0)
 //             val notification = RingtoneManager.getDefaultUri(RingtoneManager.TYPE_NOTIFICATION)
             val player: MediaPlayer = MediaPlayer.create(context, soundResource)
             if(manager.ringerMode != AudioManager.RINGER_MODE_SILENT)

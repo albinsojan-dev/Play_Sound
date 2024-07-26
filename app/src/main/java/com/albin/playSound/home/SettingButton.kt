@@ -28,11 +28,10 @@ import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.tooling.preview.Preview
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import androidx.lifecycle.LifecycleOwner
 import com.albin.playSound.R
 import com.albin.playSound.bridge.SwitchClock
 import com.albin.playSound.bridge.SwitchWifi
-import java.time.Clock
-
 
 @RequiresApi(Build.VERSION_CODES.O)
 class SettingButton {
@@ -43,7 +42,7 @@ class SettingButton {
         val context = LocalContext.current
         var isClock by remember { mutableStateOf(false) }
         var isSound by remember { mutableStateOf(false) }
-        var isHourFormat by remember { mutableStateOf(false) }
+//        var isHourFormat by remember { mutableStateOf(false) }
 
         // Retrieve shared preferences
         val sharedPreferences = context.getSharedPreferences("MyPrefs", MODE_PRIVATE)
@@ -51,9 +50,9 @@ class SettingButton {
         // Read initial values from shared preferences
         isClock = sharedPreferences.getBoolean("play_Clock", false)
         isSound = sharedPreferences.getBoolean("play_Wifi", false)
-        isHourFormat = sharedPreferences.getBoolean("24_hour_format", false)
+//        isHourFormat = sharedPreferences.getBoolean("24_hour_format", false)
 
-        SwitchClock().Clock(context,isClock, isHourFormat)
+        SwitchClock().Clock(context, isClock)
         SwitchWifi().Wifi(context, isSound)
 
         Column(
@@ -108,7 +107,6 @@ class SettingButton {
                     )
                 )
             }
-
             Spacer(modifier = Modifier.height(16.dp))
 
             Row(
@@ -121,31 +119,32 @@ class SettingButton {
                     modifier = Modifier.weight(1f)
                 )
 
-                Switch(
-                    checked = isHourFormat, onCheckedChange = { checked ->
-                        isHourFormat = checked
-                        sharedPreferences.edit().putBoolean("24_hour_format", checked).apply()
-                    }, colors = SwitchDefaults.colors(
-                        checkedThumbColor = Color.White,
-                        uncheckedThumbColor = Color.White,
-                        checkedTrackColor = Color.Gray,
-                        uncheckedTrackColor = Color.LightGray
-                    )
-                )
+//                Switch(
+//                    checked = isHourFormat, onCheckedChange = { checked ->
+//                        isHourFormat = checked
+//                        sharedPreferences.edit().putBoolean("24_hour_format", checked).apply()
+//                    }, colors = SwitchDefaults.colors(
+//                        checkedThumbColor = Color.White,
+//                        uncheckedThumbColor = Color.White,
+//                        checkedTrackColor = Color.Gray,
+//                        uncheckedTrackColor = Color.LightGray
+//                    )
+//                )
             }
-            if (isHourFormat) {
-                Text(
-                    textAlign = TextAlign.Start,
-                    text = stringResource(R.string.twenty_four_time),
-                )
-            } else {
-                Text(
-                    text = stringResource(R.string.twelve_time)
 
-                )
-            }
+//            if (isHourFormat) {
+//                Text(
+//                    textAlign = TextAlign.Start,
+//                    text = stringResource(R.string.twenty_four_time),
+//                )
+//            } else {
+//                Text(
+//                    text = stringResource(R.string.twelve_time)
+//                )
+//            }
         }
     }
+
     @RequiresApi(Build.VERSION_CODES.O)
     @Preview(showBackground = true)
     @Composable
