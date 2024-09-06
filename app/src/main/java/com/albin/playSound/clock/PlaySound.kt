@@ -5,7 +5,6 @@ import android.content.Context.MODE_PRIVATE
 import android.media.AudioManager
 import android.media.MediaPlayer
 import android.os.Build
-import android.util.Log
 import androidx.annotation.RequiresApi
 
 @RequiresApi(Build.VERSION_CODES.O)

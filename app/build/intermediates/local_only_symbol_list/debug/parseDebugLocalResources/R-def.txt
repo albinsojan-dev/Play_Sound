@@ -10,8 +10,10 @@ color white
 drawable baseline_settings_24
 drawable ic_launcher_background
 drawable ic_launcher_foreground
-mipmap ic_launcher
-mipmap ic_launcher_round
+drawable ic_launchers_background
+mipmap ic_launchers
+mipmap ic_launchers_foreground
+mipmap ic_launchers_round
 raw eight
 raw eighteen
 raw eleven

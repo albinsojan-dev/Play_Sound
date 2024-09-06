@@ -54,10 +54,10 @@ android {
 }
 dependencies {
     // Navigation
-    implementation ("androidx.navigation:navigation-compose:2.5.3")
-    implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.4.0")
+//    implementation ("androidx.navigation:navigation-compose:2.5.3")
+//    implementation ("androidx.lifecycle:lifecycle-runtime-ktx:2.4.0")
 // work manager
-    implementation("androidx.work:work-runtime-ktx:2.7.1")
+//    implementation ("androidx.work:work-runtime-ktx:2.8.1")
 
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.lifecycle.runtime.ktx)

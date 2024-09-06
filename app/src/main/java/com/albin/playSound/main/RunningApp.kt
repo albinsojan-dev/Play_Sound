@@ -6,7 +6,7 @@ import android.app.NotificationManager
 import android.content.Context
 import android.os.Build
 
-class RunningApp:Application() {
+class RunningApp : Application() {
 
     override fun onCreate() {
         super.onCreate()

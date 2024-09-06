@@ -1,7 +1,7 @@
 {
     "logs": [
         {
-            "outputFile": "com.albin.playSound.app-mergeDebugResources-53:/values-hu/values-hu.xml",
+            "outputFile": "com.albin.playSound.app-mergeDebugResources-48:/values-hu/values-hu.xml",
             "map": [
                 {
                     "source": "/Users/albinsojan/.gradle/caches/transforms-4/37b954d4f335154d91234f095234abd3/transformed/material3-1.1.1/res/values-hu/values-hu.xml",

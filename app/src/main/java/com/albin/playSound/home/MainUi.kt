@@ -1,8 +1,8 @@
 package com.albin.playSound.home
 
 import android.annotation.SuppressLint
-import android.content.Context.MODE_PRIVATE
 import android.os.Build
+import android.text.format.DateFormat
 import androidx.annotation.RequiresApi
 import androidx.compose.foundation.background
 import androidx.compose.foundation.layout.Arrangement
@@ -63,10 +63,8 @@ class MainUi {
     @RequiresApi(Build.VERSION_CODES.O)
     @Composable
     fun ClockComposable(navController: NavController) {
-
-        val sharedPreferences = LocalContext.current.getSharedPreferences("MyPrefs", MODE_PRIVATE)
-        val isHourFormat = sharedPreferences.getBoolean("24_hour_format", false)
-
+        val context = LocalContext.current
+        val isHourFormat = DateFormat.is24HourFormat(context)
         val timeFormatter = if (isHourFormat) {
             DateTimeFormatter.ofPattern("HH:mm:ss")
         } else {

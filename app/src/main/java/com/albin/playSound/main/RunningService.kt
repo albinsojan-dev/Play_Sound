@@ -19,7 +19,7 @@ class RunningService : Service() {
     @SuppressLint("InflateParams")
     override fun onStartCommand(intent: Intent?, flags: Int, startId: Int): Int {
         start()
-        return super.onStartCommand(intent, flags, startId)
+        return START_STICKY  // Ensures service is restarted if it gets terminated
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
@@ -28,7 +28,9 @@ class RunningService : Service() {
             .setSmallIcon(R.drawable.ic_launcher_foreground)
             .setContentTitle("Time")
             .setContentText("Hour")
+            .setPriority(NotificationCompat.PRIORITY_HIGH)  // Set priority to match the channel's importance
             .build()
         startForeground(1, notification)
     }
 }
+

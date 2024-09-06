@@ -40,7 +40,7 @@ class SwitchWifi {
         val editor = sharedPreferences.edit()
         editor.putBoolean("play_wifi", true)
         editor.apply()
-        CheckWifi().isWifiConnected(context)
+        CheckWifi().checkAndRunIfFirstLaunch(context)
         println("Function is running")
     }
 

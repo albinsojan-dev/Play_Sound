@@ -38,10 +38,6 @@ attr startDestination
 attr targetPackage
 attr ttcIndex
 attr uri
-bool enable_system_alarm_service_default
-bool enable_system_foreground_service_default
-bool enable_system_job_service_default
-bool workmanager_test_configuration
 color androidx_core_ripple_material_light
 color androidx_core_secondary_text_default_material_light
 color black
@@ -88,6 +84,7 @@ drawable ic_call_decline
 drawable ic_call_decline_low
 drawable ic_launcher_background
 drawable ic_launcher_foreground
+drawable ic_launchers_background
 drawable notification_action_background
 drawable notification_bg
 drawable notification_bg_low
@@ -199,8 +196,9 @@ layout notification_template_custom_big
 layout notification_template_icon_group
 layout notification_template_part_chronometer
 layout notification_template_part_time
-mipmap ic_launcher
-mipmap ic_launcher_round
+mipmap ic_launchers
+mipmap ic_launchers_foreground
+mipmap ic_launchers_round
 raw eight
 raw eighteen
 raw eleven
