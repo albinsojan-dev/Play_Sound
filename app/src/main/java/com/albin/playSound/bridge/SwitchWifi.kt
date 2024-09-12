@@ -16,6 +16,7 @@ class SwitchWifi {
     @RequiresApi(Build.VERSION_CODES.O)
     @SuppressLint("SuspiciousIndentation")
     @Composable
+    // check if wifi_button is on or off
     fun Wifi(context: Context, isSound: Boolean) {
         val coroutineScope = rememberCoroutineScope()
 
@@ -35,16 +36,21 @@ class SwitchWifi {
     }
 
     @RequiresApi(Build.VERSION_CODES.O)
+    // start the function
     fun startWifi(context: Context) {
+        // Retrieve shared preferences
         val sharedPreferences = context.getSharedPreferences("MyPrefs", MODE_PRIVATE)
         val editor = sharedPreferences.edit()
         editor.putBoolean("play_wifi", true)
         editor.apply()
+        // Call the function to check if it's the first launch
         CheckWifi().checkAndRunIfFirstLaunch(context)
         println("Function is running")
     }
 
+    // stop the function
     private fun stopWifi(context: Context) {
+        // Retrieve shared preferences
         val sharedPreferences = context.getSharedPreferences("MyPrefs", MODE_PRIVATE)
         val editor = sharedPreferences.edit()
         editor.putBoolean("play_wifi", false)

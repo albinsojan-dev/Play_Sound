@@ -6,8 +6,9 @@ import android.media.AudioManager
 import android.media.MediaPlayer
 
 class PlaySound {
-    // Function to create and play a sound
+    // Function to create and play a sound based on a resource ID
      fun playSound(context: Context, soundResource: Int) {
+         // Retrieve shared preferences
         val sharedPreferences = context.getSharedPreferences("MyPrefs", MODE_PRIVATE)
         val playSound = sharedPreferences.getBoolean("play_wifi", false)
         if (playSound) {

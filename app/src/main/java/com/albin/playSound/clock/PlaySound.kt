@@ -9,8 +9,9 @@ import androidx.annotation.RequiresApi
 
 @RequiresApi(Build.VERSION_CODES.O)
 class PlaySound {
-    // Function to create and play a sound
+    // Play the sound in the background when the time matches
     fun playSound(context: Context, soundResource: Int) {
+        // Retrieve shared preferences
         val sharedPreferences = context.getSharedPreferences("MyPrefs", MODE_PRIVATE)
         val playSound = sharedPreferences.getBoolean("play_Clock", false)
         if (playSound) {

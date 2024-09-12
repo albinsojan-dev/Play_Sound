@@ -132,16 +132,16 @@ MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /Users/albi
 	android:dataExtractionRules
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:16:9-65
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:14:9-40
-service#com.albin.playSound.main.RunningService
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:14:9-43
+service#com.albin.playSound.service.RunningService
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:26:9-28:38
 	android:enabled
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:28:13-35
 	android:foregroundServiceType
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:27:13-58
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:26:18-53
-activity#com.albin.playSound.main.MainActivity
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:26:18-56
+activity#com.albin.playSound.mainActivity.MainActivity
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:30:9-40:20
 	android:label
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:33:13-45
@@ -152,7 +152,7 @@ ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/Androi
 	android:theme
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:34:13-72
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:13-46
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:13-54
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:36:13-39:29
 action#android.intent.action.MAIN
@@ -163,12 +163,12 @@ category#android.intent.category.LAUNCHER
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:38:17-77
 	android:name
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:38:27-74
-receiver#com.albin.playSound.main.MyBroadcastReceiver
+receiver#com.albin.playSound.broadcastReceiver.MyBroadcastReceiver
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:9-47:20
 	android:exported
 		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:43:13-36
 	android:name
-		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:19-59
+		ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:19-72
 intent-filter#action:name:android.intent.action.BOOT_COMPLETED
 ADDED from /Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:44:13-46:29
 action#android.intent.action.BOOT_COMPLETED

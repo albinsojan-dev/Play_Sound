@@ -10,7 +10,7 @@ import com.albin.playSound.R
 
 class CheckWifi {
     companion object {
-        private const val PREFS_NAME = "MyAppPreferences"
+        const val PREFS_NAME = "MyAppPreferences"
         private const val CHECK_WIFI_FIRST_LAUNCH = "WifiFirstLaunch"
     }
 
@@ -31,9 +31,10 @@ class CheckWifi {
         }
     }
 
-     private fun  isWifiConnected(context: Context): Boolean {
+    private fun isWifiConnected(context: Context): Boolean {
         Log.d("CheckWifi", "isWifiConnected called")
-        val connectivityManager = context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
+        val connectivityManager =
+            context.getSystemService(Context.CONNECTIVITY_SERVICE) as ConnectivityManager
         val networkCallback = object : ConnectivityManager.NetworkCallback() {
             override fun onAvailable(network: Network) {
                 super.onAvailable(network)

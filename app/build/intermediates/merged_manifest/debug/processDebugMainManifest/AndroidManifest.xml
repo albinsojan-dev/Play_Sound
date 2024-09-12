@@ -22,7 +22,7 @@
     <uses-permission android:name="com.albin.playSound.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
 
     <application
-        android:name="com.albin.playSound.main.RunningApp"
+        android:name="com.albin.playSound.service.RunningApp"
         android:allowBackup="true"
         android:appComponentFactory="androidx.core.app.CoreComponentFactory"
         android:dataExtractionRules="@xml/data_extraction_rules"
@@ -36,12 +36,12 @@
         android:testOnly="true"
         android:theme="@style/Theme.PlaySoundTheInOneHourIntervals" >
         <service
-            android:name="com.albin.playSound.main.RunningService"
+            android:name="com.albin.playSound.service.RunningService"
             android:enabled="true"
             android:foregroundServiceType="mediaPlayback" />
 
         <activity
-            android:name="com.albin.playSound.main.MainActivity"
+            android:name="com.albin.playSound.mainActivity.MainActivity"
             android:exported="true"
             android:label="@string/app_name"
             android:theme="@style/Theme.PlaySoundTheInOneHourIntervals" >
@@ -53,7 +53,7 @@
         </activity>
 
         <receiver
-            android:name="com.albin.playSound.main.MyBroadcastReceiver"
+            android:name="com.albin.playSound.broadcastReceiver.MyBroadcastReceiver"
             android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />

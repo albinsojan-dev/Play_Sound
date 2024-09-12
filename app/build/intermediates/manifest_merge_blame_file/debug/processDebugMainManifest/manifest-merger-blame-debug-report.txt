@@ -40,8 +40,8 @@
 23
 24    <application
 24-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:13:5-49:19
-25        android:name="com.albin.playSound.main.RunningApp"
-25-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:14:9-40
+25        android:name="com.albin.playSound.service.RunningApp"
+25-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:14:9-43
 26        android:allowBackup="true"
 26-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:15:9-35
 27        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
@@ -65,8 +65,8 @@
 37-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:22:9-68
 38        <service
 38-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:26:9-28:38
-39            android:name="com.albin.playSound.main.RunningService"
-39-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:26:18-53
+39            android:name="com.albin.playSound.service.RunningService"
+39-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:26:18-56
 40            android:enabled="true"
 40-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:28:13-35
 41            android:foregroundServiceType="mediaPlayback" />
@@ -74,8 +74,8 @@
 42
 43        <activity
 43-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:30:9-40:20
-44            android:name="com.albin.playSound.main.MainActivity"
-44-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:13-46
+44            android:name="com.albin.playSound.mainActivity.MainActivity"
+44-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:31:13-54
 45            android:exported="true"
 45-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:32:13-36
 46            android:label="@string/app_name"
@@ -96,8 +96,8 @@
 54
 55        <receiver
 55-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:9-47:20
-56            android:name="com.albin.playSound.main.MyBroadcastReceiver"
-56-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:19-59
+56            android:name="com.albin.playSound.broadcastReceiver.MyBroadcastReceiver"
+56-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:42:19-72
 57            android:exported="true" >
 57-->/Users/albinsojan/AndroidStudioProjects/PlaySound/app/src/main/AndroidManifest.xml:43:13-36
 58            <intent-filter>
